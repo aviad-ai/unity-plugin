@@ -1,0 +1,16 @@
+﻿{
+  "name": "ai.aviad.plugin",
+  "version": "1.0.0",
+  "displayName": "Aviad AI Plugin",
+  "description": "A Unity plugin to deploy language models in your game.",
+  "unity": "2021.3",
+  "author": {
+    "name": "Aviad",
+    "url": "https://www.aviad.ai"
+  },
+  "keywords": [
+    "aviad",
+    "ai",
+    "llm"
+  ]
+}

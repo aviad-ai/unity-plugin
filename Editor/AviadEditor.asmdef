@@ -1,0 +1,17 @@
+﻿{
+  "name": "Aviad.Editor",
+  "rootNamespace": "Aviad",
+  "references": [
+    "Aviad"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": []
+}
